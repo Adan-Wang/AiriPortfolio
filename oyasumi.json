@@ -1,0 +1,19 @@
+{
+    "sleep":["Maybe Airi will learn to sleep at one point too"],
+    "sleep_toolate":[],
+    "sleep_tooearly":[],
+    "morning":[],
+    "morning_late":[],
+    "morning_tooearly":[],
+    "greet":["Hello","Hai","Whats up,","Hey","Heyy"],
+    "greet_indep":[],
+    "online_status":[],
+    "idle_status":[],
+    "dnd_status":[],
+    "offline_status":[],
+    "correct_8ball":[],
+    "incorrect_8ball":[],
+    "wangbot_missing":[]
+    
+
+}

@@ -1,0 +1,9 @@
+{
+    "greet_start":["hi airi","airi","airi,"],
+    "sleep_start": ["gn","airi gn","good night","gn~","gn!", "nights","nights!","night","alright gonna sleep","gonna sleep"],
+    "where_start": ["where's","where is","wheres"],
+    "morning_start": ["morning","morn~","morn ","good morning"],
+    "dad_start":["i'm","im"],
+    "where_all_start":["where is everyone?","where is everyone","where did everyone go?","where did everyone go","where is everybody?","where is everybody","anyone here?","anyone here"]
+    
+}
