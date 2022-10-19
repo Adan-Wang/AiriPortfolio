@@ -13,7 +13,7 @@ As such, this program will NOT work (there will be syntax errors and components 
 # Key Functionalities
 
 ## ImageNet
-Takes user image and imputs it into a TensorFlow-JS based, pretrained machine learning model (MobileNet v2) to determine the image.
+Takes user image and inputs it into a pretrained machine learning model (MobileNet v2, via TensorFlow-JS) to determine the image, outputs different likelihoods of the image.
 
 ## GameLogs
 Using "status" on Discord, log user time in different game applications. Each session is recorded. For now, only basic output is supported, but new output features are planned to be included in a future version.
